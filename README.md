@@ -2,12 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Colton Tumoth`
+- **CCID:** `tumoth`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+
+Gemini was consulted and used for simple debugging.
 
 ## Verbal Collaboration
 
